@@ -3,6 +3,8 @@
  ♡ How to reach me : beyzaevcen37@icloud.com
 
  ♡ I'm currently learning Flutter and Java.
+ 
+ ♡ My Linkedin account : https://www.linkedin.com/in/beyzanur-evcen-710798223/
 
 
 
