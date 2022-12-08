@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Beyza Evcen </h1>
 
- ♡ How to reach me : beyzaevcen37@icloud.com
+ ♡ How to reach me : beyzaevceen@gmail.com
 
  ♡ I'm currently learning Flutter and Java.
  
