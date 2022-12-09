@@ -2,7 +2,7 @@
 
  ♡ How to reach me : beyzaevceen@gmail.com
 
- ♡ I'm currently learning Flutter,Figma and Java.
+ ♡ I'm currently learning Flutter,Dart and Java.
  
  ♡ My Linkedin account : https://www.linkedin.com/in/beyzanur-evcen-710798223/
 
