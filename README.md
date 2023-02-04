@@ -13,4 +13,3 @@
 
 
 
-<img width=300 src="https://wakatime.com/share/@b1d98643-e46c-4d2d-ba50-4e7509b2f7d2/114db571-958b-47a7-97ac-c86a48b1f3af.svg">
