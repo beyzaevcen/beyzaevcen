@@ -3,8 +3,7 @@
  ♡ How to reach me : beyzaevceen@gmail.com
 
  ♡ I'm currently learning Flutter,Dart and C
- 
- ♡ My Linkedin account : https://www.linkedin.com/in/beyzanur-evcen-710798223/
+
 
 
 
