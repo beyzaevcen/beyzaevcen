@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Beyza Evcen </h1>
+<h1 align="center" font color="#9900FF"">Hi, I'm Beyza Evcen </h1>
 
  ♡ How to reach me : beyzaevceen@gmail.com
 
