@@ -2,7 +2,7 @@
 
  ♡ How to reach me : beyzaevceen@gmail.com
 
- ♡ I'm currently learning Flutter,Dart,Go and C
+ ♡ I'm currently learning Flutter,Dart,Go and JS
 
 
 
