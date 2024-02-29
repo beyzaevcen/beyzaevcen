@@ -3,9 +3,7 @@
 
   <h1 style="color:pink;">Hi, I'm Beyza Evcen</h1>
 
-  <p>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlwczlob2E4MmxjdmVicXF3aXB1ZmRyc2pzaTdqOTUyZXd4dHo5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="150" height="150" alt="Alternatif Metin">
-  </p>
+
 
   <p>
     <b>♡ How to reach me :</b> beyzaevceen@gmail.com
