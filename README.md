@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <b>♡ I'm currently learning:</b> Flutter, Dart, Go, and JS
+    <b>♡ I'm currently learning:</b> Node.js and React
   </p>
 
   <h3>Languages:</h3>
